@@ -19,6 +19,7 @@ import numpy as np
 a=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 result=np.linalg.inv(a)
 print(result)
+```
 
 
 ## Output:
