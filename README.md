@@ -23,8 +23,9 @@ print(result)
 
 
 ## Output:
+![image](https://github.com/srisrisaranya/INVERSE-OF-A-MATRIX/assets/148516638/85ec0216-432b-4f8a-b5b5-c265f4ff44df)
 
-![Screenshot inverse of matrix](https://github.com/srisrisaranya/INVERSE-OF-A-MATRIX/assets/148516638/3c996cee-d091-49b1-961c-b3c6f00756b2)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
